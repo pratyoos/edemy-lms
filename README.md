@@ -68,7 +68,6 @@ src/
 ├── components/           # Reusable React components (Navbar, CourseCard, etc.)
 ├── context/              # Context providers for managing global state (AppContext)
 ├── pages/                # React pages (Home, CourseList, EducatorDashboard, etc.)
-├── utils/                # Helper functions and hooks
 └── App.js                # Main application entry point
 ```
 
