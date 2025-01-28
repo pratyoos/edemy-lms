@@ -103,27 +103,28 @@ export const dummyEducatorData = {
 
 export const dummyTestimonial = [
     {
-        name: 'Donald Jackman',
-        role: 'SWE 1 @ Amazon',
+        name: 'Sophia Turner',
+        role: 'Product Manager @ Microsoft',
         image: assets.profile_img_1,
         rating: 5,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'I’ve been using Edemy for a few months now, and it has been an incredible learning platform. The courses are well-structured and easy to follow, making it much easier for me to pick up new skills.',
     },
     {
-        name: 'Richard Nelson',
-        role: 'SWE 2 @ Samsung',
+        name: 'Ethan Parker',
+        role: 'Software Engineer @ Apple',
         image: assets.profile_img_2,
         rating: 4,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'Edemy has been my go-to platform for upskilling. The hands-on approach and interactive exercises have really helped me grow as a developer. I would recommend it to anyone looking to advance in tech.',
     },
     {
-        name: 'James Washington',
-        role: 'SWE 2 @ Google',
+        name: 'Olivia Martinez',
+        role: 'Frontend Engineer @ Facebook',
         image: assets.profile_img_3,
         rating: 4.5,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'The variety of courses on Edemy has been amazing. I’ve learned so much in a short time, and the community of learners is super supportive. It’s the perfect platform for self-paced learning.',
     },
 ];
+
 
 export const dummyDashboardData = {
     "totalEarnings": 707.38,
