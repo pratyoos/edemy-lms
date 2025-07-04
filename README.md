@@ -24,12 +24,13 @@ A modern login management system built with React to handle user authentication,
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/edemy-login-management.git
+    git clone https://github.com/pratyoos/edemy-lms.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd edemy-login-management
+    cd edemy-lms
+    cd client
     ```
 
 3. Install dependencies:
