@@ -80,3 +80,6 @@ src/
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
+## Author:
+
+Made with ❤️ by [Pratyoos](https://github.com/pratyoos).
